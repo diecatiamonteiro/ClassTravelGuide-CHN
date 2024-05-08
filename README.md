@@ -1,8 +1,8 @@
-# Destination
+# Paris
 
-- **Location**: Granada, Spain
-- **Why Visit**: great weather, amazing history
-- **Best Time to Visit**: March, April, October, November
-- **Must-See Attractions**: Alhambra, Generalife Gardens, Royal Chapel of Granada, Catedral de Granada
-- **Travel Tips**: Book your ticket to see Alhambra months before, otherwise you're going to miss the sight
-- **Contributor**: Nawwar
+- **Location**: Paris,France
+- **Why Visit**: amazing history,great Restaurants,Shopping
+- **Best Time to Visit**: all year long
+- **Must-See Attractions**: Eiffel Tower
+- **Travel Tips**: Be prepared for crowds and Traffic
+- **Contributor**: Humphrey
