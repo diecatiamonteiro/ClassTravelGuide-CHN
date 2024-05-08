@@ -1,4 +1,4 @@
-# Travel Guide-CHN
+Travel Guide-CHN
 
   
 ### Granada
@@ -18,3 +18,12 @@
   - **Must-See Attractions**: Skip famous attractions and go to typical restaurants, talk to people, have a beer at one of the many viewpoints spread out in the city, and finish the night at Lux, a club by the river
   - **Travel Tips**: Cross the bridge to the South and go to typical restaurants to eat fresh fish in Costa da Caparica. In Lisbon, always mind your belongings and pickpockets.
   - **Contributor**: Cátia
+
+### Paris
+
+- **Location**: Paris,France
+- **Why Visit**: amazing history,great Restaurants,Shopping
+- **Best Time to Visit**: all year long
+- **Must-See Attractions**: Eiffel Tower
+- **Travel Tips**: Be prepared for crowds and Traffic
+- **Contributor**: Humphrey
